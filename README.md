@@ -1,3 +1,3 @@
 # UniPong
 
-A játékopt itt lehet letöltemi:[link](https://drive.google.com/file/d/1n13e-9d-Be91ZSuZZH1sLtPyIsy3z9rH/view)
+A játékopt itt lehet letölteni:[link](https://drive.google.com/file/d/1n13e-9d-Be91ZSuZZH1sLtPyIsy3z9rH/view)
