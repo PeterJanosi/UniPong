@@ -62,7 +62,7 @@ public class PaddleAgent : Agent
             AddReward(hitBallReward);
         }
     }
-
+    // I used this script for the left paddle too, only changed the CompareTag to "LeftGoal"
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // Check if the collision is with the left goal
